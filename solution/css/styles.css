@@ -7,7 +7,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #000;
+  background-color: #FA8072;
   border-radius: 0;
   border: 0;
   
@@ -22,7 +22,7 @@ body {
 
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #fff;
+  color: #CF3216;
   font-size: 1.8em;
   text-transform: uppercase;
   font-weight: bold;
